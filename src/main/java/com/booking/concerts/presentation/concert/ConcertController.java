@@ -1,7 +1,5 @@
-package com.booking.concerts.controller;
+package com.booking.concerts.concert;
 
-import com.booking.concerts.controller.dto.ConcertOptionDTO;
-import com.booking.concerts.controller.dto.SeatDTO;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

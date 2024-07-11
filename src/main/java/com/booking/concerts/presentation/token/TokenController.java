@@ -1,4 +1,4 @@
-package com.booking.concerts.controller;
+package com.booking.concerts.presentation.token;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

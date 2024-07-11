@@ -1,4 +1,4 @@
-package com.booking.concerts.controller.dto;
+package com.booking.concerts.reservation;
 
 import lombok.Data;
 
